@@ -676,6 +676,21 @@ flowchart LR
 
 For a deeper dive into understanding directed acyclic graphs (DAGs) and causal inference, see @pearlCausalityModelsReasoning2022
 
+## Point-estimate identifying conditions
+- **IV1–IV3** are sufficient to test the **exact null** (no causal effect), **not** to identify a numeric effect size.  
+- For a **point estimate**, add one of the following assumptions
+
+### Homogeneity
+
+Either
+
+1. The effect of the exposure on the outcome is the same for all individuals (estimate is the causal effect of the exposure on the outcome)
+2. The effect of the exposure on the outcome is independent of the value of the instrument (estimate is the population average causal effect)
+
+### Monotonicity
+
+The direction of the effect of the genetic variant on the exposure is the same for everyone 
+
 ## Two Stage Least Squares Estimation
 
 ### Stage One

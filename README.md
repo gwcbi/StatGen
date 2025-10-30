@@ -6,9 +6,9 @@
 <table style="width:100%;">
 <colgroup>
 <col style="width: 1%" />
-<col style="width: 37%" />
-<col style="width: 52%" />
-<col style="width: 8%" />
+<col style="width: 34%" />
+<col style="width: 56%" />
+<col style="width: 7%" />
 </colgroup>
 <thead>
 <tr>
@@ -156,17 +156,17 @@ class="uri">https://doi.org/10.1038/s41588-022-01178-w</a>.</li>
 </tr>
 <tr>
 <td>9</td>
-<td>Causal inference &amp; functional integration (Mendelian
-randomization)</td>
+<td><a href="lectures/lecture-09.qmd">Causal inference (Mendelian
+randomization)</a></td>
 <td><ul>
 <li>Sanderson, E., Glymour, M. M., Holmes, M. V., Kang, H., Morrison,
 J., Munafò, M. R., Palmer, T., Schooling, C. M., Wallace, C., Zhao, Q.,
 and Davey Smith, G. (2022), “Mendelian randomization,” <em>Nature
 Reviews Methods Primers</em>, 2, 1–21. <a
-href="https://doi.org/10.1038/s43586-021-00092-5"
+href="https://www.zotero.org/groups/6113424/pubh-8878/items/ECYBM54E/attachment/3F33AJN2/reader"
 class="uri">https://doi.org/10.1038/s43586-021-00092-5</a>.</li>
 </ul></td>
-<td></td>
+<td><a href="assignments/assignment-06.qmd">Assignment 06</a></td>
 </tr>
 <tr>
 <td>10</td>
